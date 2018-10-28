@@ -1,0 +1,4 @@
+*.swp
+*.o
+lssymtab
+a.out
